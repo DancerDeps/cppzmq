@@ -1,0 +1,10 @@
+{
+    "repo": "DancerDeps/cppzmq",
+    "name": "cppzmq",
+    "workspace": "lib",
+    "build": [
+        "./build.sh"
+    ],
+    "deps": {}
+}
+
