@@ -43,5 +43,5 @@ install_cppzmq_source() {
 if [ "${ZMQ_VERSION}" == "" ] ; then
   export ZMQ_VERSION=4.2.5
 fi
-install_zeromq_apt
+install_zeromq_source
 install_cppzmq_source
